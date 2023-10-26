@@ -1,4 +1,2 @@
 this is text1 file
 
-i am adding another line
-
